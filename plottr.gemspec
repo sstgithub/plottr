@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "A simple graph drawing tool"
   spec.description   = "Generates arrays of strings with graph based on data input of arrays of x,y inputs"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/sstgithub/plottr"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
